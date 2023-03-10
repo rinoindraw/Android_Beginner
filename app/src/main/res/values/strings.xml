@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyFavouriteArtist</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="description">Description</string>
+    <string name="read_more">Read More...</string>
+    <string name="myname">Rino Indra Wicaksono</string>
+    <string name="creator">Written By</string>
+    <string name="about">About Me</string>
+    <string name="profile_desc">An Undergraduate Computer System student who wants to gain experience and really interested in Programming, especially Front End Developer.I am a person who likes to look for opportunities and can work in a team.</string>
+    <string name="email">rinoindra75@gmail.com</string>
+    <string name="text_view">TextView</string>
+</resources>
